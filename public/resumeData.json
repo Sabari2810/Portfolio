@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name": "Sabari Manikandan",
+    "occupation": "Senior Software Engineer",
+    "description": "Reading Books and Programming are the things that keeps me sane",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sabari. I've been coding for over 2 years now. As a Full Stack developer I've worked with React, Next.js, Flutter, React Native, c#, ASP.NET and Python. And I did certifications in Python, Data Structures and Machine Learning. I'm now working on broadening my skills on Next.js and other React frameworks",
+    "contactmessage": "Get in touch with me!",
+    "email": "sabarivijay281099@gmail.com",
+    "phone": "+91 9677047166",
+    "address": {
+      "street": "",
+      "city": "Chennai, India",
+      "state": "India",
+      "zip": "600078"
+    },
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sabari-manikandan-5246b7205/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sabari2810",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ramakrishna Mission Vivekananda College - India",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "NOVAC TECHNOLOGY SOLUTIONS",
+        "title": "Senior Software Engineer",
+        "years": "Nov 2020 - Present",
+        "description": "We develop Mobile and Web Applications for Financial and Insurance Services ."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "C# and ASP.NET",
+        "level": "75%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  }
+  
+}
